@@ -1,7 +1,0 @@
-com\kogut\recharge\system\dao\UserDao.class
-com\kogut\recharge\system\logic\Autorization.class
-com\kogut\recharge\system\tables\Autorization.class
-com\kogut\recharge\system\tables\User.class
-com\kogut\recharge\system\springapp\mvc\HelloController.class
-com\kogut\recharge\system\configs\HibernateUtil.class
-com\kogut\recharge\system\logic\IdGenerator.class
